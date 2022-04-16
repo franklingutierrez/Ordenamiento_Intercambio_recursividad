@@ -1,0 +1,3 @@
+C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Intercambio_recursividad/cmake-build-debug/CMakeFiles/Ordenamiento_Intercambio_recursividad.dir
+C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Intercambio_recursividad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Intercambio_recursividad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
